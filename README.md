@@ -1,59 +1,28 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# *Chatify Laravel*
+-  *Comandos para instalação do Breeze:*
+  
+  <img width="642" height="278" alt="brezze 1 camila" src="https://github.com/user-attachments/assets/505792d3-4abf-436b-91ff-f8ce902288f6" />
+  
+<img width="672" height="350" alt="breeze 2 camila" src="https://github.com/user-attachments/assets/570bfe23-6ec8-484d-bc4c-9adf2815238e" />
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<img width="587" height="63" alt="breeze 3 camila" src="https://github.com/user-attachments/assets/6a80cfb1-7917-414e-9794-3a8632525290" />
 
-## About Laravel
+-  *Comandos para a integração com o Chatify:*
+  <img width="681" height="292" alt="chatify camila 1" src="https://github.com/user-attachments/assets/00129105-88a5-4c97-b91f-a7a09a2c3fb4" />
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+  
+<img width="659" height="172" alt="chatify camila 2" src="https://github.com/user-attachments/assets/a9b54a23-eae3-433f-b07b-88c9357ed41c" />
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+-  *Estrutura do banco de dados*
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+  <img width="220" height="301" alt="banco" src="https://github.com/user-attachments/assets/90a0c635-84ff-454e-8911-68c61ac3282b" />
 
-## Learning Laravel
+  
+<img width="1107" height="195" alt="ch messags camila" src="https://github.com/user-attachments/assets/24ea46c0-c9a9-4809-8a86-45a1e670c482" />
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+-  *Executando o CHAT*
+  <img width="1351" height="634" alt="camila chat 1" src="https://github.com/user-attachments/assets/9d392da4-ffd9-4a2d-93cc-c5b4733c071e" />
 
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+  
+<img width="1364" height="644" alt="camila chat 2" src="https://github.com/user-attachments/assets/c3ef9824-fcae-4b45-860a-459f36a918ff" />
